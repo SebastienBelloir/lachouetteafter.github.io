@@ -56,6 +56,7 @@ h2 {
 
 h4{
     font-size: 16px;
+    color: black;
 }
 
 h5{
@@ -68,7 +69,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 a{
@@ -737,6 +738,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    font-size: 0px;
 }
 
 
