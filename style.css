@@ -76,10 +76,11 @@ a{
     line-height: 30px;
 }
 
-
+.navbar-header{
+    float: left;
+}
 
 .bloc {
-    width: 100%;
     clear: both;
     background: 50% 50% no-repeat;
     padding: 0 50px;
@@ -692,6 +693,7 @@ a[data-lightbox]:hover img {
 
 .container {
     max-width: 1000px;
+    text-align: center;
 }
 
 .hero-bloc-text {
