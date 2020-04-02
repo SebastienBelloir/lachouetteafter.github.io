@@ -61,6 +61,12 @@ h4{
 
 h5{
     color: black;
+    text-decoration: underline;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
 }
 
 p,
@@ -378,6 +384,7 @@ a{
     float: left;
     margin-top: 4px;
     font-size: 16px;
+  
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -969,6 +976,7 @@ h4 {
     }
     .nav > li:hover {
         background: rgba(0, 0, 0, .08);
+        list-style: none;
     }
     .dropdown .dropdown a .caret {
         float: none;
